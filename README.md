@@ -1,1 +1,0 @@
-# bizoope-manual
