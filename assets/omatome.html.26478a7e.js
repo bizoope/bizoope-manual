@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-448ab408","path":"/omatome.html","title":"\u304A\u307E\u3068\u3081","lang":"ja","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"\u64CD\u4F5C\u65B9\u6CD5","slug":"\u64CD\u4F5C\u65B9\u6CD5","children":[]}],"git":{"updatedTime":1731371145000},"filePathRelative":"omatome.md"}');export{e as data};
